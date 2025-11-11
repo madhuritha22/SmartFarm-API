@@ -69,8 +69,6 @@ Console logs will appear once routes are added in later steps.
 
 ---
 
----
-
 ## Step 2 – Define Object Model (10 pts)
 
 ### Goal
@@ -106,7 +104,7 @@ Displayed all sensors successfully in the browser and Postman.
 
 Include a screenshot of the `/api/sensors` endpoint output from your browser or Postman.
 
-``````markdown
+
 ![GET /api/sensors Output](screenshots/get_all_sensors.png)
 
 ---
@@ -389,3 +387,4 @@ This project provided hands-on experience in building scalable, maintainable, an
 ```
 
 ---
+
