@@ -147,7 +147,6 @@ Each route was tested using **Postman** while the server was running.
 
 Include screenshots of each successful CRUD test.
 
-`````markdown
 **1️ GET All Sensors**  
 ![GET All Sensors](screenshots/get_all_sensors.png)
 
@@ -203,7 +202,7 @@ All scenarios were tested using Postman.
 
 ### Evidence (Postman Screenshots)
 
-````markdown
+
 **1️⃣ Valid POST Request – Successful Creation**  
 ![Valid POST](screenshots/joi_valid_post.png)
 
@@ -257,7 +256,7 @@ All routes were tested in Postman while the server was running (`node index.js`)
 
 ### Postman Evidence
 
-```markdown
+
 **1️⃣ GET all readings for sensor 1**  
 ![GET Readings](screenshots/get_readings_sensor1.png)
 
@@ -312,7 +311,6 @@ All filtering combinations were tested while the server was running.
 
 ### Postman Evidence
 
-```markdown
 **1️⃣ GET All Readings**
 ![GET All Readings](screenshots/filter_all_readings.png)
 
@@ -327,7 +325,7 @@ All filtering combinations were tested while the server was running.
 
 **5️⃣ Invalid Type Filter**
 ![Invalid Type](screenshots/filter_invalid_type.png)
-```
+
 
 ---
 
@@ -361,7 +359,7 @@ Add logging and centralized error handling to make the SmartFarm Express API mor
 
 ### Evidence (Screenshots)
 
-```markdown
+
 **1️⃣ Terminal Logging Output**
 ![Logging Output](screenshots/logging_output.png)
 
@@ -387,4 +385,5 @@ This project provided hands-on experience in building scalable, maintainable, an
 ```
 
 ---
+
 
